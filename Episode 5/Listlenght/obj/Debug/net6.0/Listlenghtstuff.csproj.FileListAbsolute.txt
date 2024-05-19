@@ -1,0 +1,15 @@
+Z:\testove\tema-5\Listlenghtstuff\bin\Debug\net6.0\Listlenghtstuff.exe
+Z:\testove\tema-5\Listlenghtstuff\bin\Debug\net6.0\Listlenghtstuff.deps.json
+Z:\testove\tema-5\Listlenghtstuff\bin\Debug\net6.0\Listlenghtstuff.runtimeconfig.json
+Z:\testove\tema-5\Listlenghtstuff\bin\Debug\net6.0\Listlenghtstuff.dll
+Z:\testove\tema-5\Listlenghtstuff\bin\Debug\net6.0\Listlenghtstuff.pdb
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\Listlenghtstuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\Listlenghtstuff.AssemblyInfoInputs.cache
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\Listlenghtstuff.AssemblyInfo.cs
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\Listlenghtstuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\Listlenghtstuff.sourcelink.json
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\Listlenghtstuff.dll
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\refint\Listlenghtstuff.dll
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\Listlenghtstuff.pdb
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\Listlenghtstuff.genruntimeconfig.cache
+Z:\testove\tema-5\Listlenghtstuff\obj\Debug\net6.0\ref\Listlenghtstuff.dll

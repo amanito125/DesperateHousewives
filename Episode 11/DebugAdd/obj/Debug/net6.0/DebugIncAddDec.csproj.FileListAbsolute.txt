@@ -1,0 +1,15 @@
+Z:\testove\tema-11\DebugIncAddDec\bin\Debug\net6.0\DebugIncAddDec.exe
+Z:\testove\tema-11\DebugIncAddDec\bin\Debug\net6.0\DebugIncAddDec.deps.json
+Z:\testove\tema-11\DebugIncAddDec\bin\Debug\net6.0\DebugIncAddDec.runtimeconfig.json
+Z:\testove\tema-11\DebugIncAddDec\bin\Debug\net6.0\DebugIncAddDec.dll
+Z:\testove\tema-11\DebugIncAddDec\bin\Debug\net6.0\DebugIncAddDec.pdb
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\DebugIncAddDec.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\DebugIncAddDec.AssemblyInfoInputs.cache
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\DebugIncAddDec.AssemblyInfo.cs
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\DebugIncAddDec.csproj.CoreCompileInputs.cache
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\DebugIncAddDec.sourcelink.json
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\DebugIncAddDec.dll
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\refint\DebugIncAddDec.dll
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\DebugIncAddDec.pdb
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\DebugIncAddDec.genruntimeconfig.cache
+Z:\testove\tema-11\DebugIncAddDec\obj\Debug\net6.0\ref\DebugIncAddDec.dll

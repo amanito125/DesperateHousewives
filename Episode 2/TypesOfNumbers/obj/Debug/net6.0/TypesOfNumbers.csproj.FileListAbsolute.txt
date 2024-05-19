@@ -1,0 +1,15 @@
+Z:\testove\tema-2\TypesOfNumbers\bin\Debug\net6.0\TypesOfNumbers.exe
+Z:\testove\tema-2\TypesOfNumbers\bin\Debug\net6.0\TypesOfNumbers.deps.json
+Z:\testove\tema-2\TypesOfNumbers\bin\Debug\net6.0\TypesOfNumbers.runtimeconfig.json
+Z:\testove\tema-2\TypesOfNumbers\bin\Debug\net6.0\TypesOfNumbers.dll
+Z:\testove\tema-2\TypesOfNumbers\bin\Debug\net6.0\TypesOfNumbers.pdb
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\TypesOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\TypesOfNumbers.AssemblyInfoInputs.cache
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\TypesOfNumbers.AssemblyInfo.cs
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\TypesOfNumbers.csproj.CoreCompileInputs.cache
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\TypesOfNumbers.sourcelink.json
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\TypesOfNumbers.dll
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\refint\TypesOfNumbers.dll
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\TypesOfNumbers.pdb
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\TypesOfNumbers.genruntimeconfig.cache
+Z:\testove\tema-2\TypesOfNumbers\obj\Debug\net6.0\ref\TypesOfNumbers.dll

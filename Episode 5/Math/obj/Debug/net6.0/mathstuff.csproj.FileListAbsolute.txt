@@ -1,0 +1,15 @@
+Z:\testove\tema-5\mathstuff\bin\Debug\net6.0\mathstuff.exe
+Z:\testove\tema-5\mathstuff\bin\Debug\net6.0\mathstuff.deps.json
+Z:\testove\tema-5\mathstuff\bin\Debug\net6.0\mathstuff.runtimeconfig.json
+Z:\testove\tema-5\mathstuff\bin\Debug\net6.0\mathstuff.dll
+Z:\testove\tema-5\mathstuff\bin\Debug\net6.0\mathstuff.pdb
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\mathstuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\mathstuff.AssemblyInfoInputs.cache
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\mathstuff.AssemblyInfo.cs
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\mathstuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\mathstuff.sourcelink.json
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\mathstuff.dll
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\refint\mathstuff.dll
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\mathstuff.pdb
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\mathstuff.genruntimeconfig.cache
+Z:\testove\tema-5\mathstuff\obj\Debug\net6.0\ref\mathstuff.dll

@@ -1,0 +1,15 @@
+Z:\testove\tema-2\Basketballstuff\bin\Debug\net6.0\Basketballstuff.exe
+Z:\testove\tema-2\Basketballstuff\bin\Debug\net6.0\Basketballstuff.deps.json
+Z:\testove\tema-2\Basketballstuff\bin\Debug\net6.0\Basketballstuff.runtimeconfig.json
+Z:\testove\tema-2\Basketballstuff\bin\Debug\net6.0\Basketballstuff.dll
+Z:\testove\tema-2\Basketballstuff\bin\Debug\net6.0\Basketballstuff.pdb
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\Basketballstuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\Basketballstuff.AssemblyInfoInputs.cache
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\Basketballstuff.AssemblyInfo.cs
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\Basketballstuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\Basketballstuff.sourcelink.json
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\Basketballstuff.dll
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\refint\Basketballstuff.dll
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\Basketballstuff.pdb
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\Basketballstuff.genruntimeconfig.cache
+Z:\testove\tema-2\Basketballstuff\obj\Debug\net6.0\ref\Basketballstuff.dll

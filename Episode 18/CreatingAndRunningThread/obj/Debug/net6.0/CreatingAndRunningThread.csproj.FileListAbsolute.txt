@@ -1,0 +1,14 @@
+Z:\testove\tema-18\CreatingAndRunningThread\bin\Debug\net6.0\CreatingAndRunningThread.exe
+Z:\testove\tema-18\CreatingAndRunningThread\bin\Debug\net6.0\CreatingAndRunningThread.deps.json
+Z:\testove\tema-18\CreatingAndRunningThread\bin\Debug\net6.0\CreatingAndRunningThread.runtimeconfig.json
+Z:\testove\tema-18\CreatingAndRunningThread\bin\Debug\net6.0\CreatingAndRunningThread.dll
+Z:\testove\tema-18\CreatingAndRunningThread\bin\Debug\net6.0\CreatingAndRunningThread.pdb
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\CreatingAndRunningThread.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\CreatingAndRunningThread.AssemblyInfoInputs.cache
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\CreatingAndRunningThread.AssemblyInfo.cs
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\CreatingAndRunningThread.csproj.CoreCompileInputs.cache
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\CreatingAndRunningThread.dll
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\refint\CreatingAndRunningThread.dll
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\CreatingAndRunningThread.pdb
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\CreatingAndRunningThread.genruntimeconfig.cache
+Z:\testove\tema-18\CreatingAndRunningThread\obj\Debug\net6.0\ref\CreatingAndRunningThread.dll

@@ -1,0 +1,14 @@
+Z:\testove\tema-17\coinFlip\bin\Debug\net6.0\coinFlip.exe
+Z:\testove\tema-17\coinFlip\bin\Debug\net6.0\coinFlip.deps.json
+Z:\testove\tema-17\coinFlip\bin\Debug\net6.0\coinFlip.runtimeconfig.json
+Z:\testove\tema-17\coinFlip\bin\Debug\net6.0\coinFlip.dll
+Z:\testove\tema-17\coinFlip\bin\Debug\net6.0\coinFlip.pdb
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\coinFlip.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\coinFlip.AssemblyInfoInputs.cache
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\coinFlip.AssemblyInfo.cs
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\coinFlip.csproj.CoreCompileInputs.cache
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\coinFlip.dll
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\refint\coinFlip.dll
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\coinFlip.pdb
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\coinFlip.genruntimeconfig.cache
+Z:\testove\tema-17\coinFlip\obj\Debug\net6.0\ref\coinFlip.dll

@@ -1,0 +1,15 @@
+Z:\testove\tema-6\ImplementPopT\bin\Debug\net6.0\ImplementPopT.exe
+Z:\testove\tema-6\ImplementPopT\bin\Debug\net6.0\ImplementPopT.deps.json
+Z:\testove\tema-6\ImplementPopT\bin\Debug\net6.0\ImplementPopT.runtimeconfig.json
+Z:\testove\tema-6\ImplementPopT\bin\Debug\net6.0\ImplementPopT.dll
+Z:\testove\tema-6\ImplementPopT\bin\Debug\net6.0\ImplementPopT.pdb
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ImplementPopT.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ImplementPopT.AssemblyInfoInputs.cache
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ImplementPopT.AssemblyInfo.cs
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ImplementPopT.csproj.CoreCompileInputs.cache
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ImplementPopT.sourcelink.json
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ImplementPopT.dll
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\refint\ImplementPopT.dll
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ImplementPopT.pdb
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ImplementPopT.genruntimeconfig.cache
+Z:\testove\tema-6\ImplementPopT\obj\Debug\net6.0\ref\ImplementPopT.dll

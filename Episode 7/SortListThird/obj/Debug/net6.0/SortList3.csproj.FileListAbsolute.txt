@@ -1,0 +1,15 @@
+Z:\testove\tema-7\SortList3\bin\Debug\net6.0\SortList3.exe
+Z:\testove\tema-7\SortList3\bin\Debug\net6.0\SortList3.deps.json
+Z:\testove\tema-7\SortList3\bin\Debug\net6.0\SortList3.runtimeconfig.json
+Z:\testove\tema-7\SortList3\bin\Debug\net6.0\SortList3.dll
+Z:\testove\tema-7\SortList3\bin\Debug\net6.0\SortList3.pdb
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\SortList3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\SortList3.AssemblyInfoInputs.cache
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\SortList3.AssemblyInfo.cs
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\SortList3.csproj.CoreCompileInputs.cache
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\SortList3.sourcelink.json
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\SortList3.dll
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\refint\SortList3.dll
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\SortList3.pdb
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\SortList3.genruntimeconfig.cache
+Z:\testove\tema-7\SortList3\obj\Debug\net6.0\ref\SortList3.dll

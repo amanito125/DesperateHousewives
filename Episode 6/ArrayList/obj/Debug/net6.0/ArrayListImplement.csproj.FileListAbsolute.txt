@@ -1,0 +1,15 @@
+Z:\testove\tema-6\ArrayListImplement\bin\Debug\net6.0\ArrayListImplement.exe
+Z:\testove\tema-6\ArrayListImplement\bin\Debug\net6.0\ArrayListImplement.deps.json
+Z:\testove\tema-6\ArrayListImplement\bin\Debug\net6.0\ArrayListImplement.runtimeconfig.json
+Z:\testove\tema-6\ArrayListImplement\bin\Debug\net6.0\ArrayListImplement.dll
+Z:\testove\tema-6\ArrayListImplement\bin\Debug\net6.0\ArrayListImplement.pdb
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ArrayListImplement.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ArrayListImplement.AssemblyInfoInputs.cache
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ArrayListImplement.AssemblyInfo.cs
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ArrayListImplement.csproj.CoreCompileInputs.cache
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ArrayListImplement.sourcelink.json
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ArrayListImplement.dll
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\refint\ArrayListImplement.dll
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ArrayListImplement.pdb
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ArrayListImplement.genruntimeconfig.cache
+Z:\testove\tema-6\ArrayListImplement\obj\Debug\net6.0\ref\ArrayListImplement.dll

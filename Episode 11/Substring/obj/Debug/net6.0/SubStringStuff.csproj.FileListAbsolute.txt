@@ -1,0 +1,15 @@
+Z:\testove\tema-11\SubStringStuff\bin\Debug\net6.0\SubStringStuff.exe
+Z:\testove\tema-11\SubStringStuff\bin\Debug\net6.0\SubStringStuff.deps.json
+Z:\testove\tema-11\SubStringStuff\bin\Debug\net6.0\SubStringStuff.runtimeconfig.json
+Z:\testove\tema-11\SubStringStuff\bin\Debug\net6.0\SubStringStuff.dll
+Z:\testove\tema-11\SubStringStuff\bin\Debug\net6.0\SubStringStuff.pdb
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\SubStringStuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\SubStringStuff.AssemblyInfoInputs.cache
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\SubStringStuff.AssemblyInfo.cs
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\SubStringStuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\SubStringStuff.sourcelink.json
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\SubStringStuff.dll
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\refint\SubStringStuff.dll
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\SubStringStuff.pdb
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\SubStringStuff.genruntimeconfig.cache
+Z:\testove\tema-11\SubStringStuff\obj\Debug\net6.0\ref\SubStringStuff.dll

@@ -1,0 +1,160 @@
+constraint CONSTRAINT fk_persons_passports FOREIGN KEY(passport_id) REFERENCES passports(passport_id)
+
+
+Допишете следната заявка за таблица Persons, така че номера на човек да бъде уникален. Заявката да дава коректен резултат. 
+CREATE TABLE Persons(
+
+            PersonID int NOT NULL,
+
+            FirstName varchar(255) NOT NULL,
+
+            LastName varchar(255) NOT NULL,
+
+            Age int,
+            Primary key (PersonID)
+
+
+
+Създайте таблица people, която да съдържа следните колони city_id, first_name, last_name, и salary, като прецените типа данни, който да укажете за колоните. Колоната city_id да бъде първичен ключ.
+
+create table people(
+
+city_id int ,
+
+first_name varchar(50),
+
+last_name varchar(50),
+
+salary decimal,
+
+Primary key (city_id)
+
+)
+
+
+
+
+
+
+
+Създайте таблица cities, която да съдържа две колони - id и name, като прецените типа данни, който да укажете за двете колони. Колоната id да бъде първичен ключ.
+
+create table cities (
+
+    id INT NOT NULL,
+
+    name VARCHAR(255),
+
+   Primary key (id)
+
+  )
+
+
+
+Имате код за създаване на две таблици. Посочете вида на връзката, която се получава.
+
+CREATE TABLE mountains(
+
+  mountain_id INT PRIMARY KEY,
+
+  mountain_name VARCHAR(50)
+
+);
+
+CREATE TABLE peaks(
+
+  peak_id INT PRIMARY KEY,
+
+  mountain_id INT,
+
+  CONSTRAINT fk_peaks_mountains
+
+  FOREIGN KEY (mountain_id)
+  REFERENCES mountains(mountain_id)
+);
+
+едно към много
+
+
+
+
+
+
+
+
+Посочете определение за понятието бази от данни.
+организирана колекция от информация
+
+
+
+
+Създайте заявка, която да създаде таблица directors със следните колони:
+
+id е от тип цяло число и да бъде първичен ключ
+
+director_name е от текстов тип с дължина 10 знака
+
+notes е от текстов тип с дължина 20 знака.
+
+create table directors(
+    id int primary key,
+    director_name varchar(10),
+    notes varchar(20)
+)
+
+
+
+
+Имате код за създаване на таблици. Посочете вида на връзката, която се получава.
+
+CREATE TABLE employees(
+
+  employee_id INT PRIMARY KEY,
+  employee_name VARCHAR(50)
+
+);
+
+CREATE TABLE projects(
+  project_id INT PRIMARY KEY,
+  project_name VARCHAR(50)
+
+);
+
+CREATE TABLE employees_projects(
+  employee_id INT,
+  project_id INT,
+
+  CONSTRAINT pk_employees_projects
+
+  PRIMARY KEY(employee_id, project_id),
+
+  CONSTRAINT fk_employees_projects_employees
+
+  FOREIGN KEY(employee_id)
+
+  REFERENCES employees(employee_id),
+
+  CONSTRAINT fk_employees_projects_projects
+
+  FOREIGN KEY(project_id)
+
+  REFERENCES projects(project_id)
+
+);
+много към много
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+Z:\testove\tema-5\Delegatstuff\bin\Debug\net6.0\Delegatstuff.exe
+Z:\testove\tema-5\Delegatstuff\bin\Debug\net6.0\Delegatstuff.deps.json
+Z:\testove\tema-5\Delegatstuff\bin\Debug\net6.0\Delegatstuff.runtimeconfig.json
+Z:\testove\tema-5\Delegatstuff\bin\Debug\net6.0\Delegatstuff.dll
+Z:\testove\tema-5\Delegatstuff\bin\Debug\net6.0\Delegatstuff.pdb
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\Delegatstuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\Delegatstuff.AssemblyInfoInputs.cache
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\Delegatstuff.AssemblyInfo.cs
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\Delegatstuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\Delegatstuff.sourcelink.json
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\Delegatstuff.dll
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\refint\Delegatstuff.dll
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\Delegatstuff.pdb
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\Delegatstuff.genruntimeconfig.cache
+Z:\testove\tema-5\Delegatstuff\obj\Debug\net6.0\ref\Delegatstuff.dll

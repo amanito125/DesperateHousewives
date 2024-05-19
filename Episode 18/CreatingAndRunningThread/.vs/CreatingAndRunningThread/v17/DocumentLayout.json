@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\testove\\tema-18\\CreatingAndRunningThread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6E7DB-4679-4B49-A9A5-E675A59E9FA0}|CreatingAndRunningThread.csproj|z:\\testove\\tema-18\\creatingandrunningthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6E7DB-4679-4B49-A9A5-E675A59E9FA0}|CreatingAndRunningThread.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\testove\\tema-18\\CreatingAndRunningThread\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "Z:\\testove\\tema-18\\CreatingAndRunningThread\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:55:31.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

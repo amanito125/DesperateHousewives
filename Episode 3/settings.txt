@@ -1,0 +1,252 @@
+public class School
+    {
+        private string name;
+        private string address;
+        private string information;
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+        public string Address
+        {
+            get { return address; }
+            set { address = value; }
+        }
+        public string Information
+        {
+            get { return information; }
+            set { information = value; }
+        }
+
+    }
+
+
+
+Дефинирайте за кого ще е видимо поле/метод в C#, ако то е с модификатор за достъп private?
+само за класа, в който се намира
+
+
+
+public class Book
+    {
+        private string name;        
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        private string author;
+
+        public string Author
+        {
+            get { return author; }
+            set { author = value; }
+        }
+
+        private int pages;
+
+        public int Pages
+        {
+            get { return pages; }
+            set { pages = value; }
+        }
+    }
+
+
+
+Обяснете какво правят т.нар getters в C#:
+метод за четене на стойността на едно свойство
+
+
+public class Dog
+    {
+        private static int count;//2т
+        public Dog()
+        {
+            count++;
+        }
+
+        public static int Count { get => count; }//2т
+    }
+
+public class Program
+    {
+        static void Main(string[] args)
+        {
+            Dog dog = new Dog();
+            Console.WriteLine(Dog.Count);//2т
+        }
+}
+
+Демонстрирайте как бихте използвали статичен член от даден клас в C#.
+Console.WriteLine(Mathematics.Add(5, 6));
+
+
+
+
+public int Age
+
+{
+    get { return age; }
+    private set { age = value; }
+}
+
+public int ReturnAge()
+{
+    return Age;
+}
+
+
+
+
+
+
+
+
+
+Figure fig = new Figure();,
+
+Figure fig = new Circle();
+
+,
+
+Circle fig = new Circle();
+
+
+
+
+
+
+
+
+Посочете правилната дефиниция по понятията класове, атрибути и поведение в ООП. Изберете от падащите менюта:
+
+Класът дефинира [характеристиките и поведението на даден обект.].
+
+Атрибутите на класа се [дефинират като собствени променливи в тялото му.].
+
+Поведението на обектите се [моделира чрез дефиниция на методи в класовете].
+
+Атрибутите на класа се наричат още [член променливи].
+
+
+
+
+static double MaxNumber(double[] array)
+        {
+            double max = array[0];
+            for (int i = 1; i < array.Length; i++)
+            {
+                if(array[i]> max)
+                {
+                    max = array[i];
+                }
+            }
+
+            return max;
+        }
+
+
+
+
+
+
+
+
+
+[public] class Turtle
+    {
+        [private] string name;
+        [private]  int age;
+        [public] Turtle(string name, int age)
+        {
+            Name = name;
+            Age = age;
+        }
+        [public] string Name
+        {
+            get { return name; }
+            [private] set { name = value; }
+        }
+        [public] int Age
+        {
+            get { return age; }
+            [private] set { age = value; }
+        }
+
+        [public] void MakeTrick()
+        {
+            Console.WriteLine("I do a triple somersault!");
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+private string name - поле
+
+
+
+
+
+
+Дефинирайте за кого ще е видимо поле/метод в C#, ако то е с модификатор за достъп public?
+може да бъде достъпен от всеки друг клас, независимо дали е от текущия проект, от текущото пространство от имена или извън тях.
+
+
+
+
+
+
+
+public class Dog
+    {
+        private string name;
+        private int age;
+
+        public Dog(string name, int age)//2t
+        {
+            Name = name;
+            Age = age;
+        }
+
+        public string Name
+        {
+            get { return name; }//2t
+            private set { name = value; }
+        }
+        public int Age //2t
+        {
+            get { return age; } 
+            private set { age = value; }
+        }
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+В C# като статични могат да бъдат декларирани: 
+Полета, методи, свойства, конструктори и класове.
+
+
+Посочете кое от изброените се отнася за конструкторите в C#:
+Правилните отговори са: Конструкторът е специален метод на класа, чрез който инициализираме обекти., Конструкторът се извиква с ключовата дума new., Конструкторът няма тип на връщаната стойност., Конструктор може да бъде с или без параметри.

@@ -1,0 +1,38 @@
+Посочете кое от следните НЕ е свойство на векторите:
+Изберете едно
+
+d. идемпотентност
+
+
+Използвайте блоковете, за да опишете алгоритъм за генериране на пермутации
+generate permutations
+
+public static void Generate(int index)
+
+{
+
+  if( index >= elements.Lenght ) {
+
+    Console.WriteLine(string.Join(" ", permutation));
+
+  } else {
+
+    for(int i = 0; i < elements.Length; i++) {
+
+      if( !used[i] ) {
+
+         used[i] = true ;
+
+        permutation[  index ] =  elements[i] ;
+
+        Generate(index + 1);
+
+        used[i] = false;
+
+      }
+
+    }
+
+  }
+
+}

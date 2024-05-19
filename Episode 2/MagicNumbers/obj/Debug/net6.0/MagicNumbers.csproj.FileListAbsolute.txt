@@ -1,0 +1,15 @@
+Z:\testove\tema-2\MagicNumbers\bin\Debug\net6.0\MagicNumbers.exe
+Z:\testove\tema-2\MagicNumbers\bin\Debug\net6.0\MagicNumbers.deps.json
+Z:\testove\tema-2\MagicNumbers\bin\Debug\net6.0\MagicNumbers.runtimeconfig.json
+Z:\testove\tema-2\MagicNumbers\bin\Debug\net6.0\MagicNumbers.dll
+Z:\testove\tema-2\MagicNumbers\bin\Debug\net6.0\MagicNumbers.pdb
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\MagicNumbers.AssemblyInfoInputs.cache
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\MagicNumbers.AssemblyInfo.cs
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\MagicNumbers.csproj.CoreCompileInputs.cache
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\MagicNumbers.sourcelink.json
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\MagicNumbers.dll
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\refint\MagicNumbers.dll
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\MagicNumbers.pdb
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\MagicNumbers.genruntimeconfig.cache
+Z:\testove\tema-2\MagicNumbers\obj\Debug\net6.0\ref\MagicNumbers.dll

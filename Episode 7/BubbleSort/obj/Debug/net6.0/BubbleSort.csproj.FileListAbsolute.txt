@@ -1,0 +1,15 @@
+Z:\testove\tema-7\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+Z:\testove\tema-7\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+Z:\testove\tema-7\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+Z:\testove\tema-7\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+Z:\testove\tema-7\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\BubbleSort.sourcelink.json
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+Z:\testove\tema-7\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34818.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectorfix", "Vectorfix.csproj", "{80DEEA77-5E09-4593-815A-1D716482E605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DEEA77-5E09-4593-815A-1D716482E605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DEEA77-5E09-4593-815A-1D716482E605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DEEA77-5E09-4593-815A-1D716482E605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DEEA77-5E09-4593-815A-1D716482E605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89C7DFD-9167-4A28-817F-3B8848A8BA86}
+	EndGlobalSection
+EndGlobal

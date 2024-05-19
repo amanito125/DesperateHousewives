@@ -1,0 +1,103 @@
+magic - низове или числени стойности, които са поставени директно в кода
+
+class AddressModel
+{
+    public int Id { get; set; }
+    public string Address { get; set; }
+    public string Address2 { get; set; }
+    public string District { get; set; }
+    public int CityId { get; set; }
+    [ForeignKey("CityId")]
+    public virtual CityModel? City { get; set; }
+    public string PostalCode { get; set; }
+    public string Phone { get; set; }
+    public string Location { get; set; }    
+    public DateTime LastUpdate { get; set; }
+}
+class CityModel
+{
+    public int Id { get; set; }
+    public string City { get; set; }
+    public int CountryId { get; set; }
+    [ForeignKey("CountryId")]
+    public virtual CountryModel? Country { get; set; }
+    public DateTime LastUpdate { get; set; }
+}
+
+class CountryModel
+{
+    public int Id { get; set; }
+    public string Country { get; set; }
+    public DateTime LastUpdate { get; set; }
+}
+
+
+
+
+
+
+
+
+
+
+public DbSet<Author> Authors {get; set;}
+
+public DbSet<Book> Books{get; set;}
+
+public DbSet<Category> Categories{get; set;}
+
+public DbSet<Order> Orders{get; set;}
+
+
+
+
+
+
+
+
+
+class City
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+
+}
+
+class Rent
+{
+    public int Id { get; set; }
+    public int UserId { get; set; }
+    [ForeignKey("UserId")]
+    public virtual User? User { get; set; }
+    public int ScooterId { get; set; }
+    [ForeignKey("ScooterId")]
+    public virtual Scooter? Scooter { get; set; }
+    public DateTime StartDate { get; set; }
+    public DateTime EndDate { get; set; }
+    public bool IsCompleted { get; set; }
+}
+
+class Scooter
+{
+    public int Id { get; set; }
+    [ForeignKey("Id")]
+    public virtual Rent? Rent { get; set; }
+}
+
+class User
+{
+    public int Id { get; set; }
+    public string UserName { get; set; }
+    public string Password { get; set; }
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public double Balance { get; set; }
+    public int CityId { get; set; }
+    [ForeignKey("CityId")]
+    public virtual City? City { get; set; }
+    public DateTime RegisterDate { get; set; }
+
+}
+
+
+

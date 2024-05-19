@@ -1,0 +1,14 @@
+Z:\testove\tema-18\CountCreateThread\bin\Debug\net6.0\CountCreateThread.exe
+Z:\testove\tema-18\CountCreateThread\bin\Debug\net6.0\CountCreateThread.deps.json
+Z:\testove\tema-18\CountCreateThread\bin\Debug\net6.0\CountCreateThread.runtimeconfig.json
+Z:\testove\tema-18\CountCreateThread\bin\Debug\net6.0\CountCreateThread.dll
+Z:\testove\tema-18\CountCreateThread\bin\Debug\net6.0\CountCreateThread.pdb
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\CountCreateThread.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\CountCreateThread.AssemblyInfoInputs.cache
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\CountCreateThread.AssemblyInfo.cs
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\CountCreateThread.csproj.CoreCompileInputs.cache
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\CountCreateThread.dll
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\refint\CountCreateThread.dll
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\CountCreateThread.pdb
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\CountCreateThread.genruntimeconfig.cache
+Z:\testove\tema-18\CountCreateThread\obj\Debug\net6.0\ref\CountCreateThread.dll

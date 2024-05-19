@@ -1,0 +1,15 @@
+Z:\testove\tema-5\Pepii\bin\Debug\net6.0\Pepii.exe
+Z:\testove\tema-5\Pepii\bin\Debug\net6.0\Pepii.deps.json
+Z:\testove\tema-5\Pepii\bin\Debug\net6.0\Pepii.runtimeconfig.json
+Z:\testove\tema-5\Pepii\bin\Debug\net6.0\Pepii.dll
+Z:\testove\tema-5\Pepii\bin\Debug\net6.0\Pepii.pdb
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\Pepii.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\Pepii.AssemblyInfoInputs.cache
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\Pepii.AssemblyInfo.cs
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\Pepii.csproj.CoreCompileInputs.cache
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\Pepii.sourcelink.json
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\Pepii.dll
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\refint\Pepii.dll
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\Pepii.pdb
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\Pepii.genruntimeconfig.cache
+Z:\testove\tema-5\Pepii\obj\Debug\net6.0\ref\Pepii.dll

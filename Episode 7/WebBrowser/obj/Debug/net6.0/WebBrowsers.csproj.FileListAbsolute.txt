@@ -1,0 +1,15 @@
+Z:\testove\tema-7\WebBrowsers\bin\Debug\net6.0\WebBrowsers.exe
+Z:\testove\tema-7\WebBrowsers\bin\Debug\net6.0\WebBrowsers.deps.json
+Z:\testove\tema-7\WebBrowsers\bin\Debug\net6.0\WebBrowsers.runtimeconfig.json
+Z:\testove\tema-7\WebBrowsers\bin\Debug\net6.0\WebBrowsers.dll
+Z:\testove\tema-7\WebBrowsers\bin\Debug\net6.0\WebBrowsers.pdb
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\WebBrowsers.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\WebBrowsers.AssemblyInfoInputs.cache
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\WebBrowsers.AssemblyInfo.cs
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\WebBrowsers.csproj.CoreCompileInputs.cache
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\WebBrowsers.sourcelink.json
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\WebBrowsers.dll
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\refint\WebBrowsers.dll
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\WebBrowsers.pdb
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\WebBrowsers.genruntimeconfig.cache
+Z:\testove\tema-7\WebBrowsers\obj\Debug\net6.0\ref\WebBrowsers.dll

@@ -1,0 +1,15 @@
+Z:\testove\tema-16\findMode\bin\Debug\net6.0\findMode.exe
+Z:\testove\tema-16\findMode\bin\Debug\net6.0\findMode.deps.json
+Z:\testove\tema-16\findMode\bin\Debug\net6.0\findMode.runtimeconfig.json
+Z:\testove\tema-16\findMode\bin\Debug\net6.0\findMode.dll
+Z:\testove\tema-16\findMode\bin\Debug\net6.0\findMode.pdb
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\findMode.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\findMode.AssemblyInfoInputs.cache
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\findMode.AssemblyInfo.cs
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\findMode.csproj.CoreCompileInputs.cache
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\findMode.sourcelink.json
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\findMode.dll
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\refint\findMode.dll
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\findMode.pdb
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\findMode.genruntimeconfig.cache
+Z:\testove\tema-16\findMode\obj\Debug\net6.0\ref\findMode.dll

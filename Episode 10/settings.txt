@@ -1,0 +1,59 @@
+Допишете следната заявка, така че да изведе като резултат служителите със заплата по-голяма от 50000 и да ги сортира в низходящ ред.
+SELECT first_name, last_name, salary FROM employees
+where salary > 50000
+order by salary desc;
+
+
+Създайте заявка, която извежда първо име, фамилия и длъжност на служителите, които имат заплата между 20000 и 30000. Използвайте базата данни soft_uni.
+use soft_uni;
+SELECT first_name, last_name, job_title
+FROM employees
+WHERE salary BETWEEN 20000 AND 30000;
+
+Имплементирайте код на заявка, която извежда колоните first_name, last_name и job_title от таблица employees и извежда само тези записи със заплата между 20000 и 30000.
+SELECT first_name, last_name, job_title
+from employees
+where salary BETWEEN 20000 AND 30000
+
+
+Посочете какво прави клаузата FULL JOIN.
+FULL JOIN - Тази връзка връща записите, отговарящи на свързващото условие и също така несъвпадащите записи от лявата или от дясната таблица.
+
+
+Във вашата база от данни Soft_uni имате създадена таблица Employees с 500 записа. Необходимо е да добавите нова колона с име осигуровки (osigurovki). Напишете заявка за добавяне на колоната в таблица employees. 
+ALTER TABLE employees
+add column salary INT;
+
+
+Имате създадена съхранена процедура с параметър usp_select_employees_by_seniority(min_years_at_work INT). Моля да дефинирате заявка за извикване на процедурата, за да може да бъде използвана.
+CALL usp_select_employees_by_seniority(15)
+
+
+Моля посочете вярното твърдение за съхранени процедури в език My SQL.
+Могат да приемат входни параметри; Могат да връщат изходни резултати.
+
+
+
+[START] [TRANSACTION]
+
+[UPDATE] accounts SET balance = balance – withdraw_amount
+
+WHERE id = account
+
+--Transaction logic goes here
+
+IF ROW_COUNT() <> 1 THEN -- Affected rows are different than one.
+
+            SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'Invalid account';
+
+            [ROLLBACK];
+
+ELSE
+
+            [COMMIT];
+
+[END IF];
+
+
+
+

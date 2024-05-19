@@ -1,0 +1,15 @@
+Z:\testove\tema-16\AvgTemp\bin\Debug\net6.0\AvgTemp.exe
+Z:\testove\tema-16\AvgTemp\bin\Debug\net6.0\AvgTemp.deps.json
+Z:\testove\tema-16\AvgTemp\bin\Debug\net6.0\AvgTemp.runtimeconfig.json
+Z:\testove\tema-16\AvgTemp\bin\Debug\net6.0\AvgTemp.dll
+Z:\testove\tema-16\AvgTemp\bin\Debug\net6.0\AvgTemp.pdb
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\AvgTemp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\AvgTemp.AssemblyInfoInputs.cache
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\AvgTemp.AssemblyInfo.cs
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\AvgTemp.csproj.CoreCompileInputs.cache
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\AvgTemp.sourcelink.json
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\AvgTemp.dll
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\refint\AvgTemp.dll
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\AvgTemp.pdb
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\AvgTemp.genruntimeconfig.cache
+Z:\testove\tema-16\AvgTemp\obj\Debug\net6.0\ref\AvgTemp.dll

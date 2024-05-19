@@ -1,0 +1,15 @@
+Z:\testove\tema-12\MovieStuff\bin\Debug\net6.0\MovieStuff.exe
+Z:\testove\tema-12\MovieStuff\bin\Debug\net6.0\MovieStuff.deps.json
+Z:\testove\tema-12\MovieStuff\bin\Debug\net6.0\MovieStuff.runtimeconfig.json
+Z:\testove\tema-12\MovieStuff\bin\Debug\net6.0\MovieStuff.dll
+Z:\testove\tema-12\MovieStuff\bin\Debug\net6.0\MovieStuff.pdb
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\MovieStuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\MovieStuff.AssemblyInfoInputs.cache
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\MovieStuff.AssemblyInfo.cs
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\MovieStuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\MovieStuff.sourcelink.json
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\MovieStuff.dll
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\refint\MovieStuff.dll
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\MovieStuff.pdb
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\MovieStuff.genruntimeconfig.cache
+Z:\testove\tema-12\MovieStuff\obj\Debug\net6.0\ref\MovieStuff.dll

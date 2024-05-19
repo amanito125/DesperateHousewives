@@ -1,0 +1,15 @@
+Z:\testove\tema-7\EqualNumbers\bin\Debug\net6.0\EqualNumbers.exe
+Z:\testove\tema-7\EqualNumbers\bin\Debug\net6.0\EqualNumbers.deps.json
+Z:\testove\tema-7\EqualNumbers\bin\Debug\net6.0\EqualNumbers.runtimeconfig.json
+Z:\testove\tema-7\EqualNumbers\bin\Debug\net6.0\EqualNumbers.dll
+Z:\testove\tema-7\EqualNumbers\bin\Debug\net6.0\EqualNumbers.pdb
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\EqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\EqualNumbers.AssemblyInfoInputs.cache
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\EqualNumbers.AssemblyInfo.cs
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\EqualNumbers.csproj.CoreCompileInputs.cache
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\EqualNumbers.sourcelink.json
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\EqualNumbers.dll
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\refint\EqualNumbers.dll
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\EqualNumbers.pdb
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\EqualNumbers.genruntimeconfig.cache
+Z:\testove\tema-7\EqualNumbers\obj\Debug\net6.0\ref\EqualNumbers.dll

@@ -1,0 +1,21 @@
+public static void Generate(int index)
+
+{
+
+  if( index >= ) {
+
+    Console.WriteLine(string.Join(" ", variation));
+
+  } else {
+
+    for(int i = 0; i < elements.Length; i++) {
+
+        variation[  index ] =  elements[i] ;
+
+        Generate(index + 1);
+
+    }
+
+  }
+
+}

@@ -1,0 +1,92 @@
+Posocheniyat po-dolu fragment na C# sabira chisloto 0.00001 obshto 100000 pati. Ochakvaniyat rezultat ot tova e 1. Pri izpalnenie se poluchava rezultat 0.999999999998084. Kak shte promenite programata, taka che da se popravi tazi izchislitelna greshka?
+
+>  Kato izpolzvame tipa decimal + dobavqne na sufiks M sled izpisvane na 0 i 0.00001
+
+Dayte primer za konzolna programa, koyato chete parola (edin red s proizvolen tekst), vavedena ot potrebitelya, i proveryava dali vavedenoto savpada s frazata “s3cr3t!P@ssw0rd”. Pri savpadenie da se izvede “Welcome”. Pri nesavpadenie da se izvede “Wrong password!”.
+
+
+string password = Console.ReadLine();
+
+if (pass == "s3cr3t!P@ssw0rd")
+
+{
+
+Console.WriteLine("Welcome");
+
+
+}
+
+else{
+
+  Console.WriteLine("Wrong password!");
+
+}
+
+
+Дайте пример (напишете примерен код) за оператор за многовариантен избор (switch-case)  като използвате програмния език C#.
+
+
+int num = int.Parse(Console.ReadLine());
+
+switch (num)
+{
+    case 1:
+        Console.WriteLine("One");
+        break;
+    case 2:
+        Console.WriteLine("Two");
+        break;
+    case 3:
+        Console.WriteLine("Three");
+        break;
+    default:
+        break;
+}
+
+
+Даден е следният примерен код на C#. Изчислете какъв ще бъде резултата, ако числото n = 5 , запишете в полето за отговор това, което ще се отпечата на конзолата.
+6
+
+
+
+int num = 1;
+while (num <= 10)
+{
+       Console.WriteLine(num++);
+}
+
+
+
+Посочете кое от изброените НЕ е вярно за стойностните типове данни?
+d. Стойностните типове данни съдържат в стека за изпъл­нение на програмата референция (адрес) към динамичната памет (heap). 
+
+Език за програмиране е изкуствен език, предназначен за изразяване на изчисления, които могат да се извършат от машина, по-специално от компютър. Езиците за програмиране могат да се използват за създаване на програми, които контролират поведението на машина, да реализират алгоритми точно или във вид на човешка комуникация. 
+
+
+Открийте начините, по които се стартира проект във VisualStudio среда.
+ctr f5 i bytona bez ctr f10 
+
+
+for (int i = 1; i <= 100; i++)
+{
+      Console.WriteLine(i);
+}
+
+
+Дефинирайте понятието алгоритъм.
+Поредица от команди
+
+
+Between 100 and 200
+
+
+
+
+Език за програмиране	компилатор/интерпретатор
+Python	[с интерпретатор]
+PHP	[с интерпретатор]
+C++	[с компилатор]
+C#	[с компилатор]
+Java 
+[с компилатор]
+JavaScript 	[с интерпретатор]

@@ -1,0 +1,15 @@
+Z:\testove\tema-3\SchoolStuff\bin\Debug\net6.0\SchoolStuff.exe
+Z:\testove\tema-3\SchoolStuff\bin\Debug\net6.0\SchoolStuff.deps.json
+Z:\testove\tema-3\SchoolStuff\bin\Debug\net6.0\SchoolStuff.runtimeconfig.json
+Z:\testove\tema-3\SchoolStuff\bin\Debug\net6.0\SchoolStuff.dll
+Z:\testove\tema-3\SchoolStuff\bin\Debug\net6.0\SchoolStuff.pdb
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\SchoolStuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\SchoolStuff.AssemblyInfoInputs.cache
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\SchoolStuff.AssemblyInfo.cs
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\SchoolStuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\SchoolStuff.sourcelink.json
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\SchoolStuff.dll
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\refint\SchoolStuff.dll
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\SchoolStuff.pdb
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\SchoolStuff.genruntimeconfig.cache
+Z:\testove\tema-3\SchoolStuff\obj\Debug\net6.0\ref\SchoolStuff.dll

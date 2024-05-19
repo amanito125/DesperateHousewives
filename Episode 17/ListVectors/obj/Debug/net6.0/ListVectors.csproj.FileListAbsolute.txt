@@ -1,0 +1,14 @@
+Z:\testove\tema-17\ListVectors\bin\Debug\net6.0\ListVectors.exe
+Z:\testove\tema-17\ListVectors\bin\Debug\net6.0\ListVectors.deps.json
+Z:\testove\tema-17\ListVectors\bin\Debug\net6.0\ListVectors.runtimeconfig.json
+Z:\testove\tema-17\ListVectors\bin\Debug\net6.0\ListVectors.dll
+Z:\testove\tema-17\ListVectors\bin\Debug\net6.0\ListVectors.pdb
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\ListVectors.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\ListVectors.AssemblyInfoInputs.cache
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\ListVectors.AssemblyInfo.cs
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\ListVectors.csproj.CoreCompileInputs.cache
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\ListVectors.dll
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\refint\ListVectors.dll
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\ListVectors.pdb
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\ListVectors.genruntimeconfig.cache
+Z:\testove\tema-17\ListVectors\obj\Debug\net6.0\ref\ListVectors.dll

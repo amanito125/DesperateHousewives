@@ -1,0 +1,15 @@
+Z:\testove\tema-2\EggStuff\bin\Debug\net6.0\EggStuff.exe
+Z:\testove\tema-2\EggStuff\bin\Debug\net6.0\EggStuff.deps.json
+Z:\testove\tema-2\EggStuff\bin\Debug\net6.0\EggStuff.runtimeconfig.json
+Z:\testove\tema-2\EggStuff\bin\Debug\net6.0\EggStuff.dll
+Z:\testove\tema-2\EggStuff\bin\Debug\net6.0\EggStuff.pdb
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\EggStuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\EggStuff.AssemblyInfoInputs.cache
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\EggStuff.AssemblyInfo.cs
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\EggStuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\EggStuff.sourcelink.json
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\EggStuff.dll
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\refint\EggStuff.dll
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\EggStuff.pdb
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\EggStuff.genruntimeconfig.cache
+Z:\testove\tema-2\EggStuff\obj\Debug\net6.0\ref\EggStuff.dll

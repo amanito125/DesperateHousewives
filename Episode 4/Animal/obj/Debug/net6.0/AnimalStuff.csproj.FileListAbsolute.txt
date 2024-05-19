@@ -1,0 +1,15 @@
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\AnimalStuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\AnimalStuff.AssemblyInfoInputs.cache
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\AnimalStuff.AssemblyInfo.cs
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\AnimalStuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\AnimalStuff.sourcelink.json
+Z:\testove\tema-4\AnimalStuff\bin\Debug\net6.0\AnimalStuff.exe
+Z:\testove\tema-4\AnimalStuff\bin\Debug\net6.0\AnimalStuff.deps.json
+Z:\testove\tema-4\AnimalStuff\bin\Debug\net6.0\AnimalStuff.runtimeconfig.json
+Z:\testove\tema-4\AnimalStuff\bin\Debug\net6.0\AnimalStuff.dll
+Z:\testove\tema-4\AnimalStuff\bin\Debug\net6.0\AnimalStuff.pdb
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\AnimalStuff.dll
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\refint\AnimalStuff.dll
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\AnimalStuff.pdb
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\AnimalStuff.genruntimeconfig.cache
+Z:\testove\tema-4\AnimalStuff\obj\Debug\net6.0\ref\AnimalStuff.dll

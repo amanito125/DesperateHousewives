@@ -1,0 +1,14 @@
+Z:\testove\tema-17\dice5000\bin\Debug\net6.0\dice5000.exe
+Z:\testove\tema-17\dice5000\bin\Debug\net6.0\dice5000.deps.json
+Z:\testove\tema-17\dice5000\bin\Debug\net6.0\dice5000.runtimeconfig.json
+Z:\testove\tema-17\dice5000\bin\Debug\net6.0\dice5000.dll
+Z:\testove\tema-17\dice5000\bin\Debug\net6.0\dice5000.pdb
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\dice5000.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\dice5000.AssemblyInfoInputs.cache
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\dice5000.AssemblyInfo.cs
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\dice5000.csproj.CoreCompileInputs.cache
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\dice5000.dll
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\refint\dice5000.dll
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\dice5000.pdb
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\dice5000.genruntimeconfig.cache
+Z:\testove\tema-17\dice5000\obj\Debug\net6.0\ref\dice5000.dll

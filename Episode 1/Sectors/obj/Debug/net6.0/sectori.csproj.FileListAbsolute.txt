@@ -1,0 +1,15 @@
+Z:\testove\tema-1\sectori\bin\Debug\net6.0\sectori.exe
+Z:\testove\tema-1\sectori\bin\Debug\net6.0\sectori.deps.json
+Z:\testove\tema-1\sectori\bin\Debug\net6.0\sectori.runtimeconfig.json
+Z:\testove\tema-1\sectori\bin\Debug\net6.0\sectori.dll
+Z:\testove\tema-1\sectori\bin\Debug\net6.0\sectori.pdb
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\sectori.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\sectori.AssemblyInfoInputs.cache
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\sectori.AssemblyInfo.cs
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\sectori.csproj.CoreCompileInputs.cache
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\sectori.sourcelink.json
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\sectori.dll
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\refint\sectori.dll
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\sectori.pdb
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\sectori.genruntimeconfig.cache
+Z:\testove\tema-1\sectori\obj\Debug\net6.0\ref\sectori.dll

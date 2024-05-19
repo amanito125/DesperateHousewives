@@ -1,0 +1,14 @@
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\Vectorfix.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\Vectorfix.AssemblyInfoInputs.cache
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\Vectorfix.AssemblyInfo.cs
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\Vectorfix.csproj.CoreCompileInputs.cache
+Z:\testove\tema-17\Vectorfix\bin\Debug\net6.0\Vectorfix.exe
+Z:\testove\tema-17\Vectorfix\bin\Debug\net6.0\Vectorfix.deps.json
+Z:\testove\tema-17\Vectorfix\bin\Debug\net6.0\Vectorfix.runtimeconfig.json
+Z:\testove\tema-17\Vectorfix\bin\Debug\net6.0\Vectorfix.dll
+Z:\testove\tema-17\Vectorfix\bin\Debug\net6.0\Vectorfix.pdb
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\Vectorfix.dll
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\refint\Vectorfix.dll
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\Vectorfix.pdb
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\Vectorfix.genruntimeconfig.cache
+Z:\testove\tema-17\Vectorfix\obj\Debug\net6.0\ref\Vectorfix.dll

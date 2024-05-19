@@ -1,0 +1,15 @@
+
+
+class ToDoList{ //class for todo list
+
+public string Name { get; set; }
+
+public string Description { get; set; }
+
+public virtual List<ToDoItem> Items { get; set; }
+
+
+}
+
+
+Какво действие активира клавиша F10 във Visual Studio? - Step Over

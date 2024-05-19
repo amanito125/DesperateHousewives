@@ -1,0 +1,15 @@
+Z:\testove\tema-7\Skobi\bin\Debug\net6.0\Skobi.exe
+Z:\testove\tema-7\Skobi\bin\Debug\net6.0\Skobi.deps.json
+Z:\testove\tema-7\Skobi\bin\Debug\net6.0\Skobi.runtimeconfig.json
+Z:\testove\tema-7\Skobi\bin\Debug\net6.0\Skobi.dll
+Z:\testove\tema-7\Skobi\bin\Debug\net6.0\Skobi.pdb
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\Skobi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\Skobi.AssemblyInfoInputs.cache
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\Skobi.AssemblyInfo.cs
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\Skobi.csproj.CoreCompileInputs.cache
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\Skobi.sourcelink.json
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\Skobi.dll
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\refint\Skobi.dll
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\Skobi.pdb
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\Skobi.genruntimeconfig.cache
+Z:\testove\tema-7\Skobi\obj\Debug\net6.0\ref\Skobi.dll

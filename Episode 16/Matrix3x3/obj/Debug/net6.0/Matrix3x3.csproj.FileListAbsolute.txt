@@ -1,0 +1,15 @@
+Z:\testove\tema-16\Matrix3x3\bin\Debug\net6.0\Matrix3x3.exe
+Z:\testove\tema-16\Matrix3x3\bin\Debug\net6.0\Matrix3x3.deps.json
+Z:\testove\tema-16\Matrix3x3\bin\Debug\net6.0\Matrix3x3.runtimeconfig.json
+Z:\testove\tema-16\Matrix3x3\bin\Debug\net6.0\Matrix3x3.dll
+Z:\testove\tema-16\Matrix3x3\bin\Debug\net6.0\Matrix3x3.pdb
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\Matrix3x3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\Matrix3x3.AssemblyInfoInputs.cache
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\Matrix3x3.AssemblyInfo.cs
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\Matrix3x3.csproj.CoreCompileInputs.cache
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\Matrix3x3.sourcelink.json
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\Matrix3x3.dll
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\refint\Matrix3x3.dll
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\Matrix3x3.pdb
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\Matrix3x3.genruntimeconfig.cache
+Z:\testove\tema-16\Matrix3x3\obj\Debug\net6.0\ref\Matrix3x3.dll

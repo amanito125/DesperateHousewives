@@ -1,0 +1,14 @@
+Z:\testove\tema-18\FixDeadlock\bin\Debug\net6.0\FixDeadlock.exe
+Z:\testove\tema-18\FixDeadlock\bin\Debug\net6.0\FixDeadlock.deps.json
+Z:\testove\tema-18\FixDeadlock\bin\Debug\net6.0\FixDeadlock.runtimeconfig.json
+Z:\testove\tema-18\FixDeadlock\bin\Debug\net6.0\FixDeadlock.dll
+Z:\testove\tema-18\FixDeadlock\bin\Debug\net6.0\FixDeadlock.pdb
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\FixDeadlock.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\FixDeadlock.AssemblyInfoInputs.cache
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\FixDeadlock.AssemblyInfo.cs
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\FixDeadlock.csproj.CoreCompileInputs.cache
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\FixDeadlock.dll
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\refint\FixDeadlock.dll
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\FixDeadlock.pdb
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\FixDeadlock.genruntimeconfig.cache
+Z:\testove\tema-18\FixDeadlock\obj\Debug\net6.0\ref\FixDeadlock.dll

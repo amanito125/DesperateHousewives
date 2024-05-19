@@ -1,0 +1,14 @@
+Z:\testove\tema-17\multplyvectors\bin\Debug\net6.0\multplyvectors.exe
+Z:\testove\tema-17\multplyvectors\bin\Debug\net6.0\multplyvectors.deps.json
+Z:\testove\tema-17\multplyvectors\bin\Debug\net6.0\multplyvectors.runtimeconfig.json
+Z:\testove\tema-17\multplyvectors\bin\Debug\net6.0\multplyvectors.dll
+Z:\testove\tema-17\multplyvectors\bin\Debug\net6.0\multplyvectors.pdb
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\multplyvectors.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\multplyvectors.AssemblyInfoInputs.cache
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\multplyvectors.AssemblyInfo.cs
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\multplyvectors.csproj.CoreCompileInputs.cache
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\multplyvectors.dll
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\refint\multplyvectors.dll
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\multplyvectors.pdb
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\multplyvectors.genruntimeconfig.cache
+Z:\testove\tema-17\multplyvectors\obj\Debug\net6.0\ref\multplyvectors.dll

@@ -1,0 +1,15 @@
+Z:\testove\tema-5\People\bin\Debug\net6.0\People.exe
+Z:\testove\tema-5\People\bin\Debug\net6.0\People.deps.json
+Z:\testove\tema-5\People\bin\Debug\net6.0\People.runtimeconfig.json
+Z:\testove\tema-5\People\bin\Debug\net6.0\People.dll
+Z:\testove\tema-5\People\bin\Debug\net6.0\People.pdb
+Z:\testove\tema-5\People\obj\Debug\net6.0\People.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-5\People\obj\Debug\net6.0\People.AssemblyInfoInputs.cache
+Z:\testove\tema-5\People\obj\Debug\net6.0\People.AssemblyInfo.cs
+Z:\testove\tema-5\People\obj\Debug\net6.0\People.csproj.CoreCompileInputs.cache
+Z:\testove\tema-5\People\obj\Debug\net6.0\People.sourcelink.json
+Z:\testove\tema-5\People\obj\Debug\net6.0\People.dll
+Z:\testove\tema-5\People\obj\Debug\net6.0\refint\People.dll
+Z:\testove\tema-5\People\obj\Debug\net6.0\People.pdb
+Z:\testove\tema-5\People\obj\Debug\net6.0\People.genruntimeconfig.cache
+Z:\testove\tema-5\People\obj\Debug\net6.0\ref\People.dll

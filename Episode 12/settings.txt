@@ -1,0 +1,6 @@
+JsonSerializer.Serialize(weatherForecast)
+JsonSerializer.Deserialize<WeatherForecast>(jsonString)
+Ctrl-K + Ctrl-C -  закоментиране на избраните редове
+Ctrl-K + Ctrl-U - премахване на коментар от избраните редове
+Ctrl-K + Ctrl-D - подреждане (форматиране) на кода
+Ctrl + Shift + N - създаване на нов файл

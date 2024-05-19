@@ -1,0 +1,14 @@
+Z:\testove\tema-18\FindErrorLock\bin\Debug\net6.0\FindErrorLock.exe
+Z:\testove\tema-18\FindErrorLock\bin\Debug\net6.0\FindErrorLock.deps.json
+Z:\testove\tema-18\FindErrorLock\bin\Debug\net6.0\FindErrorLock.runtimeconfig.json
+Z:\testove\tema-18\FindErrorLock\bin\Debug\net6.0\FindErrorLock.dll
+Z:\testove\tema-18\FindErrorLock\bin\Debug\net6.0\FindErrorLock.pdb
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\FindErrorLock.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\FindErrorLock.AssemblyInfoInputs.cache
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\FindErrorLock.AssemblyInfo.cs
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\FindErrorLock.csproj.CoreCompileInputs.cache
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\FindErrorLock.dll
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\refint\FindErrorLock.dll
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\FindErrorLock.pdb
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\FindErrorLock.genruntimeconfig.cache
+Z:\testove\tema-18\FindErrorLock\obj\Debug\net6.0\ref\FindErrorLock.dll

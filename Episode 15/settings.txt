@@ -1,0 +1,36 @@
+fat32 max file size 4gb
+
+
+
+
+
+
+
+
+
+
+cd ~
+
+mkdir mydir
+
+cd mydir
+
+mkdir colors shapes animals
+
+cd animals
+
+mkdir reptiles mammals
+
+cd ../colors
+
+touch red green blue
+
+echo '#ff0000' > red
+
+echo '#00ff00' > green
+
+echo '#0000ff' > blue
+
+cd ../../
+
+zip -r mydir.zip mydir

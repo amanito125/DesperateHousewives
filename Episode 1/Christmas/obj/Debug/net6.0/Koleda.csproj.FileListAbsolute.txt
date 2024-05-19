@@ -1,0 +1,15 @@
+Z:\testove\tema-1\Koleda\bin\Debug\net6.0\Koleda.exe
+Z:\testove\tema-1\Koleda\bin\Debug\net6.0\Koleda.deps.json
+Z:\testove\tema-1\Koleda\bin\Debug\net6.0\Koleda.runtimeconfig.json
+Z:\testove\tema-1\Koleda\bin\Debug\net6.0\Koleda.dll
+Z:\testove\tema-1\Koleda\bin\Debug\net6.0\Koleda.pdb
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\Koleda.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\Koleda.AssemblyInfoInputs.cache
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\Koleda.AssemblyInfo.cs
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\Koleda.csproj.CoreCompileInputs.cache
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\Koleda.sourcelink.json
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\Koleda.dll
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\refint\Koleda.dll
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\Koleda.pdb
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\Koleda.genruntimeconfig.cache
+Z:\testove\tema-1\Koleda\obj\Debug\net6.0\ref\Koleda.dll

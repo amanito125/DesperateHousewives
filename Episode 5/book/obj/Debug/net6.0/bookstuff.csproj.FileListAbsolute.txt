@@ -1,0 +1,15 @@
+Z:\testove\tema-5\bookstuff\bin\Debug\net6.0\bookstuff.exe
+Z:\testove\tema-5\bookstuff\bin\Debug\net6.0\bookstuff.deps.json
+Z:\testove\tema-5\bookstuff\bin\Debug\net6.0\bookstuff.runtimeconfig.json
+Z:\testove\tema-5\bookstuff\bin\Debug\net6.0\bookstuff.dll
+Z:\testove\tema-5\bookstuff\bin\Debug\net6.0\bookstuff.pdb
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\bookstuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\bookstuff.AssemblyInfoInputs.cache
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\bookstuff.AssemblyInfo.cs
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\bookstuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\bookstuff.sourcelink.json
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\bookstuff.dll
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\refint\bookstuff.dll
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\bookstuff.pdb
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\bookstuff.genruntimeconfig.cache
+Z:\testove\tema-5\bookstuff\obj\Debug\net6.0\ref\bookstuff.dll

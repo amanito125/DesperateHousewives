@@ -1,0 +1,15 @@
+Z:\testove\tema-1\deleniebez\bin\Debug\net6.0\deleniebez.exe
+Z:\testove\tema-1\deleniebez\bin\Debug\net6.0\deleniebez.deps.json
+Z:\testove\tema-1\deleniebez\bin\Debug\net6.0\deleniebez.runtimeconfig.json
+Z:\testove\tema-1\deleniebez\bin\Debug\net6.0\deleniebez.dll
+Z:\testove\tema-1\deleniebez\bin\Debug\net6.0\deleniebez.pdb
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\deleniebez.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\deleniebez.AssemblyInfoInputs.cache
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\deleniebez.AssemblyInfo.cs
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\deleniebez.csproj.CoreCompileInputs.cache
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\deleniebez.sourcelink.json
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\deleniebez.dll
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\refint\deleniebez.dll
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\deleniebez.pdb
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\deleniebez.genruntimeconfig.cache
+Z:\testove\tema-1\deleniebez\obj\Debug\net6.0\ref\deleniebez.dll

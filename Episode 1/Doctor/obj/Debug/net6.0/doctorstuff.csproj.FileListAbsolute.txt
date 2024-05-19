@@ -1,0 +1,15 @@
+Z:\testove\tema-1\doctorstuff\bin\Debug\net6.0\doctorstuff.exe
+Z:\testove\tema-1\doctorstuff\bin\Debug\net6.0\doctorstuff.deps.json
+Z:\testove\tema-1\doctorstuff\bin\Debug\net6.0\doctorstuff.runtimeconfig.json
+Z:\testove\tema-1\doctorstuff\bin\Debug\net6.0\doctorstuff.dll
+Z:\testove\tema-1\doctorstuff\bin\Debug\net6.0\doctorstuff.pdb
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\doctorstuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\doctorstuff.AssemblyInfoInputs.cache
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\doctorstuff.AssemblyInfo.cs
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\doctorstuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\doctorstuff.sourcelink.json
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\doctorstuff.dll
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\refint\doctorstuff.dll
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\doctorstuff.pdb
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\doctorstuff.genruntimeconfig.cache
+Z:\testove\tema-1\doctorstuff\obj\Debug\net6.0\ref\doctorstuff.dll

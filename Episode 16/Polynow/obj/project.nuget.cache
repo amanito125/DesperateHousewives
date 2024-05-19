@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmlFPiat+BM=",
+  "success": true,
+  "projectFilePath": "Z:\\testove\\tema-16\\Polynowfind\\Polynowfind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zlato\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

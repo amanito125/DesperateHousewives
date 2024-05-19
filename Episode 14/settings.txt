@@ -1,0 +1,10 @@
+монолитно ядро linux
+създаден -> готов -> чакащ -> стартиран -> унищожен
+
+
+.
+
+[ -d "$HOME/my_dir" ] && rm -r ~/my_dir || echo "Already removed"
+
+[ -d ~/my_dir  ] && ls ~/my_dir || echo "The directory does not exist"
+

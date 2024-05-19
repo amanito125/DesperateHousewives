@@ -1,0 +1,15 @@
+Z:\testove\tema-3\BankStuff\bin\Debug\net6.0\BankStuff.exe
+Z:\testove\tema-3\BankStuff\bin\Debug\net6.0\BankStuff.deps.json
+Z:\testove\tema-3\BankStuff\bin\Debug\net6.0\BankStuff.runtimeconfig.json
+Z:\testove\tema-3\BankStuff\bin\Debug\net6.0\BankStuff.dll
+Z:\testove\tema-3\BankStuff\bin\Debug\net6.0\BankStuff.pdb
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\BankStuff.GeneratedMSBuildEditorConfig.editorconfig
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\BankStuff.AssemblyInfoInputs.cache
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\BankStuff.AssemblyInfo.cs
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\BankStuff.csproj.CoreCompileInputs.cache
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\BankStuff.sourcelink.json
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\BankStuff.dll
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\refint\BankStuff.dll
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\BankStuff.pdb
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\BankStuff.genruntimeconfig.cache
+Z:\testove\tema-3\BankStuff\obj\Debug\net6.0\ref\BankStuff.dll
